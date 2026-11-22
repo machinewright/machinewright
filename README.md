@@ -6,6 +6,9 @@ no dependencies and no build step.
 
 **Puzzle games about proof**
 
+- [The Imp's Scale](https://machinewright.github.io/imps-scale/): find the heaviest, the runner-up, the middle one or
+  the fake coin in the fewest weighings, against an Imp that has no hidden answer and picks each one to hurt you most.
+  Every budget is the proven minimum. 20 levels. [Source](https://github.com/machinewright/imps-scale)
 - [Squeeze](https://machinewright.github.io/squeeze/): each level asks for the most or the fewest (dance pairs, water
   through pipes, stacks of boxes). You build an answer, then the proof that nobody can do better; the level is solved
   when the two meet. 19 levels. [Source](https://github.com/machinewright/squeeze)
