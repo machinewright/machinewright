@@ -20,6 +20,9 @@ no dependencies and no build step.
 
 **Interactive essays**
 
+- [Guess the next card](https://machinewright.github.io/guess-the-next-card/) How many riffle shuffles make a deck
+  random? Play against a deck shuffled three times, next to a guesser that knows the exact odds.
+  [Source](https://github.com/machinewright/guess-the-next-card)
 - [How do you know 7 is the best?](https://machinewright.github.io/proving-par/) How a computer proves that a puzzle
   can't be solved in fewer moves. [Source](https://github.com/machinewright/proving-par)
 - [Mirrors that do logic](https://machinewright.github.io/mirrors-that-do-logic/) Why no program is expected to solve
