@@ -29,4 +29,10 @@ no dependencies and no build step.
   every mirror puzzle quickly: you build logic gates out of mirrors.
   [Source](https://github.com/machinewright/mirrors-that-do-logic)
 
+**Experiment notes**
+
+- [Solve it, then prove it](https://machinewright.github.io/no-fewer/bench/) Nine language models solve the same mirror
+  puzzles and then prove nobody can do them in fewer flips; a program checks every answer.
+  [Source](https://github.com/machinewright/no-fewer/tree/main/bench)
+
 Corrections and bug reports are welcome as issues on the repo of the piece concerned.
