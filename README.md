@@ -20,6 +20,9 @@ no dependencies and no build step.
 
 **Interactive essays**
 
+- [Which sport finds the better player?](https://machinewright.github.io/better-player/) Scoring systems as tests:
+  tennis, table tennis, badminton and volleyball against the proven best one. Design your own format.
+  [Source](https://github.com/machinewright/better-player)
 - [Guess the next card](https://machinewright.github.io/guess-the-next-card/) How many riffle shuffles make a deck
   random? Play against a deck shuffled three times, next to a guesser that knows the exact odds.
   [Source](https://github.com/machinewright/guess-the-next-card)
