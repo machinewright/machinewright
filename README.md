@@ -40,6 +40,9 @@ browser, with no dependencies and no build step.
 
 **Tools**
 
+- [Will your best player win?](https://machinewright.github.io/best-player-wins/): for anyone running a tournament.
+  Enter your players, your tables and your time; see how often a knockout, double elimination, Swiss, groups or a
+  round robin crowns your best player, then print the schedule. [Source](https://github.com/machinewright/best-player-wins)
 - [untilsure](https://github.com/machinewright/untilsure): you fixed a flaky test; did it work? Reruns any command
   until a sequential test can say FIXED or NOT FIXED, with exact error rates, parallel runs counted in start order,
   and failure logs. `go install github.com/machinewright/untilsure@latest`
