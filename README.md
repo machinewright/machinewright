@@ -40,6 +40,9 @@ browser, with no dependencies and no build step.
 
 **Tools**
 
+- [One oven, one dinner](https://machinewright.github.io/one-oven/): for anyone cooking a big dinner. List your
+  dishes with your recipes' times and temperatures; get a timeline that fits your oven, hob and hands, and a plain
+  list of compromises when it can't all fit. [Source](https://github.com/machinewright/one-oven)
 - [Will your best player win?](https://machinewright.github.io/best-player-wins/): for anyone running a tournament.
   Enter your players, your tables and your time; see how often a knockout, double elimination, Swiss, groups or a
   round robin crowns your best player, then print the schedule. [Source](https://github.com/machinewright/best-player-wins)
