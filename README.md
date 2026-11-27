@@ -40,6 +40,9 @@ browser, with no dependencies and no build step.
 
 **Tools**
 
+- [Will it get in?](https://machinewright.github.io/will-it-get-in/): for anyone buying or moving big furniture.
+  Enter its size and the tight spot (a hallway corner or a door) and see whether it gets through, how to carry it,
+  and what would fit. [Source](https://github.com/machinewright/will-it-get-in)
 - [One oven, one dinner](https://machinewright.github.io/one-oven/): for anyone cooking a big dinner. List your
   dishes with your recipes' times and temperatures; get a timeline that fits your oven, hob and hands, and a plain
   list of compromises when it can't all fit. [Source](https://github.com/machinewright/one-oven)
