@@ -40,6 +40,9 @@ browser, with no dependencies and no build step.
 
 **Tools**
 
+- [Will my car get into the garage?](https://machinewright.github.io/car-into-garage/): for anyone with a tight garage,
+  gateway or lane. Enter the widths and your car (or pick one) and see whether it gets in, how to drive it in step by step,
+  or how wide the opening would need to be. [Source](https://github.com/machinewright/car-into-garage)
 - [Will it get in?](https://machinewright.github.io/will-it-get-in/): for anyone buying or moving big furniture.
   Enter its size and the tight spot (a hallway corner, a door, or the stairs) and see whether it gets through, how to carry it,
   and what would fit. [Source](https://github.com/machinewright/will-it-get-in)
