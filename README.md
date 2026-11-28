@@ -40,6 +40,9 @@ browser, with no dependencies and no build step.
 
 **Tools**
 
+- [Can I reverse my caravan onto my drive?](https://machinewright.github.io/car-into-garage/caravan/): for anyone who
+  tows. Enter the lane, gateway, car and caravan, and see whether it can be backed in, with how much room to spare, and how.
+  [Source](https://github.com/machinewright/car-into-garage)
 - [Will my car get into the garage?](https://machinewright.github.io/car-into-garage/): for anyone with a tight garage,
   gateway or lane. Enter the widths and your car (or pick one) and see whether it gets in, how to drive it in step by step,
   or how wide the opening would need to be. [Source](https://github.com/machinewright/car-into-garage)
