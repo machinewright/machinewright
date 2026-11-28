@@ -40,6 +40,9 @@ browser, with no dependencies and no build step.
 
 **Tools**
 
+- [Will my wheelchair or scooter get through?](https://machinewright.github.io/wheelchair-turn/): for wheelchair and
+  mobility scooter users and their families. Enter the chair or scooter and the hallway and doorway, and see whether it
+  can make the turn into the room, and how. [Source](https://github.com/machinewright/wheelchair-turn)
 - [Can I reverse my caravan onto my drive?](https://machinewright.github.io/car-into-garage/caravan/): for anyone who
   tows. Enter the lane, gateway, car and caravan, and see whether it can be backed in, with how much room to spare, and how.
   [Source](https://github.com/machinewright/car-into-garage)
